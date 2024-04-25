@@ -1,0 +1,50 @@
+h1{
+	color:white;
+	font-size: 65px;
+	text-align: center;
+}
+
+h5{
+	color:white;
+	font-size: 30;
+	text-align: center;
+}
+
+p{
+	color:white;
+	font-size: 30px;
+	text-align: center;
+}
+body{
+	background-color: #CC99FF;
+	font-family: comic sans ms, cursive;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	position:relative;
+	top:0;
+}
+
+li{
+	float:left;
+}
+
+li a{
+	float:left;
+	text-align: center;
+	padding:20px;
+	color:white;
+	font-size: 30px;
+}
+
+li a:hover{
+	color: #CC66FF;
+}
+
+img.social:hover{
+	opacity: .50;
+}
